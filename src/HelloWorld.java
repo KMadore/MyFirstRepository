@@ -9,7 +9,7 @@ public class HelloWorld {
 	}
 	
 	public String goodBye(){
-		return "goodBye";
+		return "goodBye, Karen";
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
