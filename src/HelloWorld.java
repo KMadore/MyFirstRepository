@@ -7,6 +7,10 @@ public class HelloWorld {
 	public String hello(){
 		return "hello";
 	}
+	
+	public String goodBye(){
+		return "goodBye";
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
